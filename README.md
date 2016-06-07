@@ -1,3 +1,3 @@
 # supercode
-Perfect clean code
+Perfect clean code (well, not perfect, but good enough)
 Ohh yes....
